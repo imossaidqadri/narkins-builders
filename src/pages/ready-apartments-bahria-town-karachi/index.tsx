@@ -74,7 +74,7 @@ export default function ReadyApartmentsBahriaTownKarachi({
         </title>
         <meta
           name="description"
-          content="Ready to move apartments in Bahria Town Karachi. Hill Crest Residency - Completion certificate issued Oct 2025. Immediate possession available. 2/3/4 BHK from 38-98 Lakh. Move in 30 days. Gym, Pool & Security. Call 0320-324-3970"
+          content="Ready to move apartments in Bahria Town Karachi. Hill Crest Residency - Completion certificate issued Oct 2025. Immediate possession available. 2/3/4 BHK. Move in 30 days. Gym, Pool & Security. Call 0320-324-3970"
         />
         <meta
           name="keywords"
@@ -94,7 +94,7 @@ export default function ReadyApartmentsBahriaTownKarachi({
         />
         <meta
           property="og:description"
-          content="Ready to move apartments in Bahria Town Karachi. Completion certificate issued. 2/3/4 BHK from 38-98L. Move in 30 days. Call 0320-324-3970"
+          content="Ready to move apartments in Bahria Town Karachi. Completion certificate issued. 2/3/4 BHK. Move in 30 days. Call 0320-324-3970"
         />
         <meta
           property="og:url"
@@ -112,7 +112,7 @@ export default function ReadyApartmentsBahriaTownKarachi({
         />
         <meta
           name="twitter:description"
-          content="Ready apartments in Bahria Town. Completion certificate issued. 2/3/4 BHK from 38-98L. Move in 30 days. Call 0320-324-3970"
+          content="Ready apartments in Bahria Town. Completion certificate issued. 2/3/4 BHK. Move in 30 days. Call 0320-324-3970"
         />
       </Head>
       <Navigation />
@@ -135,8 +135,8 @@ export default function ReadyApartmentsBahriaTownKarachi({
               <p className="mt-6 text-lg leading-8 text-gray-700">
                 Immediate possession available at Hill Crest Residency. Move into
                 your dream apartment within 30 days. Choose from 2, 3, or 4
-                bedroom luxury apartments starting from 38 lakh. Completion
-                certificate already issued - no waiting, no uncertainty.
+                bedroom luxury apartments. Completion certificate already issued -
+                no waiting, no uncertainty.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a

@@ -72,7 +72,7 @@ export default function TwoBedroomApartmentsBahriaTown({
         </title>
         <meta
           name="description"
-          content="Find your perfect 2 bedroom apartment in Bahria Town Karachi. Ready to move & pre-launch options from 38-68 Lakh. Hill Crest Residency (Ready) & Narkin's Boutique Residency (Pre-Launch). Easy installments. Call 0320-324-3970"
+          content="Find your perfect 2 bedroom apartment in Bahria Town Karachi. Ready to move & pre-launch options. Hill Crest Residency (Ready) & Narkin's Boutique Residency (Pre-Launch). Easy installments. Call 0320-324-3970"
         />
         <meta
           name="keywords"
@@ -92,7 +92,7 @@ export default function TwoBedroomApartmentsBahriaTown({
         />
         <meta
           property="og:description"
-          content="Find your perfect 2 bedroom apartment in Bahria Town Karachi. Ready to move & pre-launch options from 38-68 Lakh. Easy installments available. Call 0320-324-3970"
+          content="Find your perfect 2 bedroom apartment in Bahria Town Karachi. Ready to move & pre-launch options. Easy installments available. Call 0320-324-3970"
         />
         <meta
           property="og:url"
@@ -110,7 +110,7 @@ export default function TwoBedroomApartmentsBahriaTown({
         />
         <meta
           name="twitter:description"
-          content="2 BHK apartments in Bahria Town from 38-68 Lakh. Ready to move & pre-launch options. Easy installments. Call 0320-324-3970"
+          content="2 BHK apartments in Bahria Town. Ready to move & pre-launch options. Easy installments. Call 0320-324-3970"
         />
       </Head>
       <Navigation />

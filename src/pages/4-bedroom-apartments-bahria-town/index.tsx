@@ -72,7 +72,7 @@ export default function FourBedroomApartmentsBahriaTown({
         </title>
         <meta
           name="description"
-          content="Luxury 4 bedroom apartments in Bahria Town Karachi. Ready to move & pre-launch options from 70 Lakh to 1.1 Crore. Hill Crest Residency (Ready) & Narkin's Boutique Residency (Pre-Launch). Ultra-spacious family living. Call 0320-324-3970"
+          content="Luxury 4 bedroom apartments in Bahria Town Karachi. Ready to move & pre-launch options. Hill Crest Residency (Ready) & Narkin's Boutique Residency (Pre-Launch). Ultra-spacious family living. Call 0320-324-3970"
         />
         <meta
           name="keywords"
@@ -92,7 +92,7 @@ export default function FourBedroomApartmentsBahriaTown({
         />
         <meta
           property="og:description"
-          content="Luxury 4 bedroom apartments in Bahria Town Karachi from 70L-1.1Cr. Ready to move & pre-launch options. Easy installments available. Call 0320-324-3970"
+          content="Luxury 4 bedroom apartments in Bahria Town Karachi. Ready to move & pre-launch options. Easy installments available. Call 0320-324-3970"
         />
         <meta
           property="og:url"
@@ -110,7 +110,7 @@ export default function FourBedroomApartmentsBahriaTown({
         />
         <meta
           name="twitter:description"
-          content="4 BHK luxury apartments in Bahria Town from 70L-1.1Cr. Ready to move & pre-launch options. Easy installments. Call 0320-324-3970"
+          content="4 BHK luxury apartments in Bahria Town. Ready to move & pre-launch options. Easy installments. Call 0320-324-3970"
         />
       </Head>
       <Navigation />
@@ -130,8 +130,8 @@ export default function FourBedroomApartmentsBahriaTown({
               <p className="mt-6 text-lg leading-8 text-gray-700">
                 Explore ultra-luxury 4 bedroom apartments for sale in Bahria Town
                 Karachi. Choose from ready-to-move Hill Crest Residency or
-                pre-launch Narkin's Boutique Residency. Spacious 1,756-2,670 sq
-                ft layouts with premium amenities and flexible payment options.
+                pre-launch Narkin's Boutique Residency. Spacious layouts with
+                premium amenities and flexible payment options.
               </p>
             </motion.div>
           </div>

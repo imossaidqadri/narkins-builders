@@ -73,9 +73,9 @@ export function PropertyCard({ property, index = 0 }: PropertyCardProps) {
                 </span>
               </div>
               <div className="flex justify-between text-sm">
-                <span className="text-gray-600">Price Range:</span>
-                <span className="font-semibold text-gray-900">
-                  {property.priceRange.min}-{property.priceRange.max} Lakh
+                <span className="text-gray-600">Price:</span>
+                <span className="font-semibold text-primary">
+                  Contact for Price
                 </span>
               </div>
               <div className="flex justify-between text-sm">

@@ -72,7 +72,7 @@ export default function ApartmentsUnder50LakhBahriaTown({
         </title>
         <meta
           name="description"
-          content="Find apartments under 50 lakh in Bahria Town Karachi. Ready to move & pre-launch options from 38-50 Lakh. Hill Crest Residency (Ready) with completion certificate. Easy monthly installments. Premium amenities included. Call 0320-324-3970"
+          content="Find apartments under 50 lakh in Bahria Town Karachi. Ready to move & pre-launch options. Hill Crest Residency (Ready) with completion certificate. Easy monthly installments. Premium amenities included. Call 0320-324-3970"
         />
         <meta
           name="keywords"
@@ -92,7 +92,7 @@ export default function ApartmentsUnder50LakhBahriaTown({
         />
         <meta
           property="og:description"
-          content="Find apartments under 50 lakh in Bahria Town Karachi from 38-50L. Ready to move & pre-launch options. Easy installments available. Call 0320-324-3970"
+          content="Find apartments under 50 lakh in Bahria Town Karachi. Ready to move & pre-launch options. Easy installments available. Call 0320-324-3970"
         />
         <meta
           property="og:url"
@@ -110,7 +110,7 @@ export default function ApartmentsUnder50LakhBahriaTown({
         />
         <meta
           name="twitter:description"
-          content="Apartments under 50 lakh in Bahria Town from 38-50L. Ready to move & pre-launch. Easy installments. Call 0320-324-3970"
+          content="Apartments under 50 lakh in Bahria Town. Ready to move & pre-launch. Easy installments. Call 0320-324-3970"
         />
       </Head>
       <Navigation />
@@ -129,9 +129,8 @@ export default function ApartmentsUnder50LakhBahriaTown({
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-700">
                 Discover affordable luxury apartments under 50 lakh in Bahria
-                Town Karachi. Ready-to-move options starting from 38 lakh with
-                premium amenities, secure gated community, and easy monthly
-                installment plans.
+                Town Karachi. Ready-to-move options with premium amenities,
+                secure gated community, and easy monthly installment plans.
               </p>
             </motion.div>
           </div>
@@ -205,8 +204,8 @@ export default function ApartmentsUnder50LakhBahriaTown({
                   Affordable Entry to Bahria Town
                 </h3>
                 <p className="text-gray-700">
-                  Start your Bahria Town journey from just 38 lakh. Luxury gated
-                  community living within reach for middle-class families.
+                  Luxury gated community living within reach for middle-class
+                  families. Contact us for current pricing and payment plans.
                 </p>
               </motion.div>
               <motion.div

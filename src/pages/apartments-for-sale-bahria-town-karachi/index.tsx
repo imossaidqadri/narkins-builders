@@ -73,7 +73,7 @@ export default function ApartmentsForSaleBahriaTownKarachi({
         </title>
         <meta
           name="description"
-          content="Find apartments for sale in Bahria Town Karachi. Ready to move & pre-launch options from 38 Lakh to 1.1 Crore. Hill Crest Residency (Ready) & Narkin's Boutique Residency (Pre-Launch). 2/3/4 BHK luxury apartments with easy installments. Call 0320-324-3970"
+          content="Find apartments for sale in Bahria Town Karachi. Ready to move & pre-launch options. Hill Crest Residency (Ready) & Narkin's Boutique Residency (Pre-Launch). 2/3/4 BHK luxury apartments with easy installments. Call 0320-324-3970"
         />
         <meta
           name="keywords"
@@ -93,7 +93,7 @@ export default function ApartmentsForSaleBahriaTownKarachi({
         />
         <meta
           property="og:description"
-          content="Apartments for sale in Bahria Town Karachi from 38L-1.1Cr. Ready to move & pre-launch. 2/3/4 BHK with easy installments. Call 0320-324-3970"
+          content="Apartments for sale in Bahria Town Karachi. Ready to move & pre-launch. 2/3/4 BHK with easy installments. Call 0320-324-3970"
         />
         <meta
           property="og:url"
@@ -111,7 +111,7 @@ export default function ApartmentsForSaleBahriaTownKarachi({
         />
         <meta
           name="twitter:description"
-          content="Apartments for sale in Bahria Town from 38L-1.1Cr. Ready & pre-launch. Easy installments. Call 0320-324-3970"
+          content="Apartments for sale in Bahria Town. Ready & pre-launch. Easy installments. Call 0320-324-3970"
         />
       </Head>
       <Navigation />
@@ -164,11 +164,11 @@ export default function ApartmentsForSaleBahriaTownKarachi({
                     2 Bedroom Apartments
                   </h3>
                   <p className="text-gray-700 mb-4">
-                    881-1,547 sq ft | 38-68 Lakh
+                    881-1,547 sq ft | Contact for Price
                   </p>
                   <p className="text-gray-600 mb-6">
                     Perfect for couples or small families. Affordable luxury
-                    starting from 38 lakh.
+                    options available.
                   </p>
                   <span className="text-primary font-semibold group-hover:underline">
                     View All 2 Bedroom Apartments →
@@ -189,7 +189,7 @@ export default function ApartmentsForSaleBahriaTownKarachi({
                     3 Bedroom Apartments
                   </h3>
                   <p className="text-gray-700 mb-4">
-                    1,884-2,184 sq ft | 65-88 Lakh
+                    1,884-2,184 sq ft | Contact for Price
                   </p>
                   <p className="text-gray-600 mb-6">
                     Spacious family apartments with dedicated dining and lounge
@@ -214,7 +214,7 @@ export default function ApartmentsForSaleBahriaTownKarachi({
                     4 Bedroom Luxury Apartments
                   </h3>
                   <p className="text-gray-700 mb-4">
-                    1,756-2,670 sq ft | 70 Lakh-1.1 Crore
+                    1,756-2,670 sq ft | Contact for Price
                   </p>
                   <p className="text-gray-600 mb-6">
                     Ultra-luxury apartments with panoramic views and premium
@@ -320,7 +320,7 @@ export default function ApartmentsForSaleBahriaTownKarachi({
                     Under 50 Lakh
                   </h3>
                   <p className="text-gray-600 mb-4">
-                    Affordable luxury apartments starting from 38 lakh
+                    Affordable luxury apartments available
                   </p>
                   <span className="text-primary font-semibold group-hover:underline">
                     View Apartments →
