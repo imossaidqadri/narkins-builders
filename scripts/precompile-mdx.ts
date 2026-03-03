@@ -95,6 +95,7 @@ if (!isMainThread) {
     }
 
     // Full MDX serialization with production settings
+    // Note: blockJS: false is required for MDX files that use JavaScript expressions like .map()
     const serializePromise = serialize(matterResult.content, {
       mdxOptions: {
         remarkPlugins: [remarkGfm],
@@ -103,6 +104,8 @@ if (!isMainThread) {
       },
       parseFrontmatter: false, // We already parsed frontmatter
       scope: faqData,
+      blockJS: false, // Allow JavaScript expressions for dynamic content rendering
+      blockDangerousJS: false, // Allow .map() and other array methods
     })
 
     // Add timeout for serialization

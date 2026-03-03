@@ -385,6 +385,8 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
             remarkPlugins: [remarkGfm],
             development: process.env.NODE_ENV === "development",
           },
+          blockJS: false, // Allow JavaScript expressions for dynamic content rendering
+          blockDangerousJS: false, // Allow .map() and other array methods
         })
       }
     } else {
@@ -394,6 +396,8 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
           remarkPlugins: [remarkGfm],
           development: process.env.NODE_ENV === "development",
         },
+        blockJS: false, // Allow JavaScript expressions for dynamic content rendering
+        blockDangerousJS: false, // Allow .map() and other array methods
       })
     }
 
