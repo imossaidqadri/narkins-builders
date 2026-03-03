@@ -1,9 +1,17 @@
 // tina/config.ts
 import { defineConfig } from "tinacms";
+var branch = process.env.NEXT_PUBLIC_TINA_BRANCH || process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF || process.env.HEAD || "main";
 var config_default = defineConfig({
-  branch: "main",
+  branch,
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   token: process.env.TINA_TOKEN,
+  tinaioConfig: {
+    allowedDomains: [
+      "http://localhost:3000",
+      "https://www.narkinsbuilders.com",
+      "https://narkinsbuilders.com"
+    ]
+  },
   ui: {
     title: "OtherDev CMS Solutions",
     welcomeMessage: "Welcome to OtherDev CMS Solutions!\n\nThis is your dashboard for editing and creating content. Select a collection on the left to begin."

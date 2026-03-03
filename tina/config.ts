@@ -1,9 +1,23 @@
 import { defineConfig } from "tinacms"
 
+// Branch configuration with Vercel fallback chain
+const branch =
+  process.env.NEXT_PUBLIC_TINA_BRANCH ||
+  process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF ||
+  process.env.HEAD ||
+  "main"
+
 export default defineConfig({
-  branch: "main",
+  branch,
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   token: process.env.TINA_TOKEN,
+  tinaioConfig: {
+    allowedDomains: [
+      "http://localhost:3000",
+      "https://www.narkinsbuilders.com",
+      "https://narkinsbuilders.com",
+    ],
+  },
   ui: {
     title: "OtherDev CMS Solutions",
     welcomeMessage:

@@ -9,7 +9,7 @@
     "build": "npm run build:vercel",
     "build:optimized": "bun run precompile-mdx && next build && next-sitemap && bun run generate-video-sitemap && bun run generate-image-sitemap",
     "build:fast": "next build",
-    "build:vercel": "bun run blog:clear-cache && (bun run precompile-mdx || echo 'Precompilation failed, building without cache') && next build && next-sitemap && bun run generate-video-sitemap && bun run generate-image-sitemap",
+    "build:vercel": "bun run tina:build && bun run blog:clear-cache && (bun run precompile-mdx || echo 'Precompilation failed, building without cache') && next build && next-sitemap && bun run generate-video-sitemap && bun run generate-image-sitemap",
     "build:analyze": "ANALYZE=true bun run build:optimized",
     "precompile-mdx": "bun scripts/precompile-mdx.ts",
     "precompile-mdx-node": "npx ts-node scripts/precompile-mdx.ts",
